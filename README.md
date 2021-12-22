@@ -2,7 +2,7 @@
 
 What is FreeAltz?
 
-FreeAltz is a Little project made By Me! CrabsCoding. to Display all Avaliable Usable free alts! These include IPVanish Alts, NordVPN Alts. and even Minecraft! i will go and find more type of alts ofc! like Netflix accounts!
+FreeAltz is a Little project made By Me! CrabsCoding. to Display all Avaliable Usable free alts! These include IPVanish Alts, NordVPN Alts. and even Minecraft! in the near future. i will try and expand the amount of alts avaliable and add stuff like Netflix accounts!
 
 Do note tho that These are Mostly 100% Checked and verified to be working!
 
